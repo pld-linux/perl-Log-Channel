@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Log 
-%define	pnam	Channel
+%define		pdir	Log 
+%define		pnam	Channel
 Summary:	Log::Channel - yet another logging package
 Summary(pl):	Log::Channel - jeszcze jeden pakiet do logowania
 Name:		perl-Log-Channel
