@@ -6,7 +6,7 @@
 %define		pdir	Log 
 %define		pnam	Channel
 Summary:	Log::Channel - yet another logging package
-Summary(pl):	Log::Channel - jeszcze jeden pakiet do logowania
+Summary(pl.UTF-8):   Log::Channel - jeszcze jeden pakiet do logowania
 Name:		perl-Log-Channel
 Version:	0.7
 Release:	1
@@ -30,10 +30,10 @@ The Log::Channel Perl module allows for code to specify channels for
 delivery of logging messages, and for users of the code to control the
 delivery and formatting of the messages.
 
-%description -l pl
-Modu≥ Perla Log::Channel umoøliwia okre∂lenie w kodzie kana≥Ûw
-logowania komunikatÛw. Umoøliwia teø uøytkownikom kodu sterowanie
-dorÍczaniem i formatowaniem komunikatÛw.
+%description -l pl.UTF-8
+Modu≈Ç Perla Log::Channel umo≈ºliwia okre≈õlenie w kodzie kana≈Ç√≥w
+logowania komunikat√≥w. Umo≈ºliwia te≈º u≈ºytkownikom kodu sterowanie
+dorƒôczaniem i formatowaniem komunikat√≥w.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
