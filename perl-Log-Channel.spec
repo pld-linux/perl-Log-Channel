@@ -6,7 +6,7 @@
 %define		pdir	Log 
 %define		pnam	Channel
 Summary:	Log::Channel - yet another logging package
-Summary(pl.UTF-8):   Log::Channel - jeszcze jeden pakiet do logowania
+Summary(pl.UTF-8):	Log::Channel - jeszcze jeden pakiet do logowania
 Name:		perl-Log-Channel
 Version:	0.7
 Release:	1
