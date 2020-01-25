@@ -4,7 +4,6 @@
 
 %define		pdir	Log
 %define		pnam	Channel
-%include	/usr/lib/rpm/macros.perl
 Summary:	Log::Channel - yet another logging package
 Summary(pl.UTF-8):	Log::Channel - jeszcze jeden pakiet do logowania
 Name:		perl-Log-Channel
