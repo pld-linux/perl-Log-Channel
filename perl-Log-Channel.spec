@@ -8,7 +8,7 @@ Summary:	Log::Channel - yet another logging package
 Summary(pl.UTF-8):	Log::Channel - jeszcze jeden pakiet do logowania
 Name:		perl-Log-Channel
 Version:	0.7
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
